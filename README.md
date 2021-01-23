@@ -16,7 +16,7 @@ Voici du statistique qui permet d'estimer le modèle.
 
 ![Loss](https://github.com/project178/trash/blob/master/loss.png)
 
-![Confusion matrix](https://github.com/project178/trash/blob/master/accuracy.png)
+![Confusion matrix](https://github.com/project178/trash/blob/master/confusion matrix.png)
 
 Liens vers un notebook et un github avec des experiences differentes:
 - [la version principale](https://colab.research.google.com/drive/178HUsBaFMissbx3KJbCZml220lqwh28j?usp=sharing)
