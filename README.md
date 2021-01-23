@@ -8,21 +8,20 @@ Dans le fichier ipynb vous pouvez trouver un script du prétraitement, de l'appr
 
 Le modèle utilisé est un CNN qui a l'architecture ci-dessous.
 
-![Model]((https://github.com/project178/trash/blob/master/model.png)
+![Model](https://github.com/project178/trash/blob/master/model.png)
 
 Voici du statistique qui permet d'estimer le modèle.
 
-![Accuracy]((https://github.com/project178/trash/blob/master/accuracy.png)
+![Accuracy](https://github.com/project178/trash/blob/master/accuracy.png)
 
-![Loss]((https://github.com/project178/trash/blob/master/loss.png)
+![Loss](https://github.com/project178/trash/blob/master/loss.png)
 
-![Confusion matrix]((https://github.com/project178/trash/blob/master/accuracy.png)
+![Confusion matrix](https://github.com/project178/trash/blob/master/accuracy.png)
 
 Liens vers un notebook et un github avec des experiences differentes:
 - [la version principale](https://colab.research.google.com/drive/178HUsBaFMissbx3KJbCZml220lqwh28j?usp=sharing)
 =======
 Lien vers un notebook et un github avec des expériences diverses :
->>>>>>> 06be6d6acf3d9b287d0a564e416a37ef79a1ef2f
 - [google colab d'un CNN simple avec Adam (+ utilisation de train-split et shuffling de toutes les données)](https://colab.research.google.com/drive/1C_P1-1gFKuCZCytDUOmkmxrg_y3iw7Ln?usp=sharing)
 - [ Lien github vers  un notebook avec les tests d'autres architectures](https://github.com/ShNineb/CNN/blob/master/resumary.ipynb)
-- lien vers le github avec les scripts : https://github.com/ShNineb/CNN/tree/master
+- [lien vers le github avec les scripts](https://github.com/ShNineb/CNN/tree/master)
