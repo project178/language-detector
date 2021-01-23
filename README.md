@@ -1,7 +1,7 @@
 # Projet d'identification d'une langue
 *Cours “Réseaux de neurones pour la reconnaissance de l’oral et application linguistiques”*
 
-<<<<<<< HEAD
+
 Ici vous pouvez trouver le modèle qui prédit une langue (français, russe, arabe ou hindi) à partir d'un audio (mp3 ou wav).
 Il y a également un dataset de [Mozilla CommonVoice](https://commonvoice.mozilla.org/fr) convérti en spectrogrammes.
 Dans le fichier ipynb vous pouvez trouver un script du prétraitement, de l'apprentissage et des résultats ainsi qu'une code qui permet d'essayer le modèle par vous-mêmes (Section Post Scriptum).
